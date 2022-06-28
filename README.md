@@ -1,2 +1,5 @@
-# Tissue-omic
- An R package, which contains the functions for calculation of spatial organization features based on the results of tissue classification
+# R package for calculation of Tissue-Omic or Histology-omic.
+
+ Functions of calculation of spatial organization features based on the results of tissue classification
+
+ Will be released after the submission of manuscript.
